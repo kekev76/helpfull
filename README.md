@@ -15,3 +15,8 @@ adb connect 192.168.0.101:5555
 https://github.com/PaoloRotolo/AppIntro
 
 Une librairie facilitant la création de slides de présentation d'application
+
+## ScratchView
+https://github.com/D-clock/ScratchView
+
+Une librairie qui permet de dévoiller des zones d'une image selon les positions prisent pendant le déplacement du toucher de l'utilisateur sur l'écran
