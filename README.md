@@ -10,3 +10,6 @@ Toutes les informations que je peux récupérer et dont j'ai besoin de me rappel
 adb tcpip 5555
 adb connect 192.168.0.101:5555
 ```
+# Slider
+## AppIntro
+https://github.com/PaoloRotolo/AppIntro
