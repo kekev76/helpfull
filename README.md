@@ -10,6 +10,14 @@ Toutes les informations que je peux récupérer et dont j'ai besoin de me rappel
 adb tcpip 5555
 adb connect 192.168.0.101:5555
 ```
+
+# Outils
+## Transformer des svg en fichiers xml compatible Android
+http://inloop.github.io/svg2android/
+
+## Transformer des images en icône pour Android
+https://romannurik.github.io/AndroidAssetStudio/
+
 # librairie
 ## AppIntro
 https://github.com/PaoloRotolo/AppIntro
@@ -20,3 +28,8 @@ Une librairie facilitant la création de slides de présentation d'application
 https://github.com/D-clock/ScratchView
 
 Une librairie qui permet de dévoiller des zones d'une image selon les positions prisent pendant le déplacement du toucher de l'utilisateur sur l'écran
+
+## Material Drawer
+https://github.com/mikepenz/MaterialDrawer
+
+Permet de réaliser facilement des drawer (menu). Remplace celui native android, et ajoute quelques fonctionnalités
