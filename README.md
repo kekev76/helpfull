@@ -14,4 +14,4 @@ adb connect 192.168.0.101:5555
 ## AppIntro
 https://github.com/PaoloRotolo/AppIntro
 
-Une librairie de faire facilement des slide de présentation d'application
+Une librairie facilitant la création de slides de présentation d'application
