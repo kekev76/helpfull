@@ -33,3 +33,8 @@ Une librairie qui permet de dévoiller des zones d'une image selon les positions
 https://github.com/mikepenz/MaterialDrawer
 
 Permet de réaliser facilement des drawer (menu). Remplace celui native android, et ajoute quelques fonctionnalités
+
+# Utils
+http://www.commentcamarche.net/faq/39490-optimiser-le-referencement-de-son-application-android#note-globale
+
+Comment gérer le référencement sur Google play
