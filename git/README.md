@@ -16,7 +16,9 @@ git tag -a nom_du_tag
 # Push Tag
 
 pusher un seul tag
+
 git push origin nom_du_tag
 
 pusher tout les tags
-git push --tags
+
+git push --tags```
