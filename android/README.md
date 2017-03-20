@@ -43,3 +43,6 @@ Comment gérer le référencement sur Google play
 
 ## Machine learning
 http://nilhcem.com/android/custom-tensorflow-classifier
+
+## Animation
+https://medium.com/@igalata13/how-to-create-a-bubble-selection-animation-on-android-627044da4854#.8grkfk7a6
