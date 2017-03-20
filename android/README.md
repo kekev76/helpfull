@@ -1,4 +1,4 @@
-# helpfull
+# Helpfull
 Toutes les informations que je peux récupérer et dont j'ai besoin de me rappeler
 
 # ADB
@@ -38,3 +38,8 @@ Permet de réaliser facilement des drawer (menu). Remplace celui native android,
 http://www.commentcamarche.net/faq/39490-optimiser-le-referencement-de-son-application-android#note-globale
 
 Comment gérer le référencement sur Google play
+
+# Tutos
+
+## Machine learning
+http://nilhcem.com/android/custom-tensorflow-classifier
