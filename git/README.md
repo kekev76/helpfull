@@ -30,4 +30,5 @@ git tag -d nom_du_tag
 supprimer un tag pushé
 
 git tag -d nom_du_tag
+
 git push origin :refs/tags/nom_du_tag
