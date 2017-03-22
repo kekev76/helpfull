@@ -21,4 +21,13 @@ git push origin nom_du_tag
 
 pusher tout les tags
 
-git push --tags```
+git push --tags
+
+Supprimer un tag
+
+git tag -d nom_du_tag
+
+supprimer un tag pushé
+
+git tag -d nom_du_tag
+git push origin :refs/tags/nom_du_tag
